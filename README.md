@@ -1,2 +1,2 @@
 # Dean
-Clockface Design
+Clockface Designer
